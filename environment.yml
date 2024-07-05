@@ -1,4 +1,4 @@
-name: sparc-marker-paper
+name: code-fair-AMD-OCT-paper
 channels:
   - defaults
   - conda-forge

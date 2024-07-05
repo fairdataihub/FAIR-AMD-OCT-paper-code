@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: 'Code: FAIR AMD OCT Datasets Paper'
+type: software
+authors:
+  - given-names: Nayoon
+    family-names: Gim
+    affiliation: >-
+      Department of Ophthalmology, University of Washington
+      (UW)
+  - given-names: Bhavesh
+    family-names: Patel
+    affiliation: >-
+      FAIR Data Innovations Hub, California Medical
+      Innovations Institute
+    orcid: 'https://orcid.org/0000-0002-0307-262X'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12662728
+    description: Archive of the source code
+repository-code: 'https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper'
+abstract: >-
+  This is the code associated with the paper title "Publicly
+  Available Imaging Datasets for Age-related Macular
+  Degeneration: Evaluation according to the Findable,
+  Accessible, Interoperable, Reproducible (FAIR)
+  Principles". Age-related macular degeneration (AMD), a
+  leading cause of vision loss among older adults, affects
+  more than 200 million people worldwide. In this paper, We
+  evaluated openly available AMD-related datasets containing
+  optical coherence tomography (OCT) data against the FAIR
+  principles. This repository contains the Jupyter notebook
+  developed to analyze data for the paper and generate
+  figures.
+keywords:
+  - FAIR
+  - Data
+  - AMD
+  - OCT
+  - Eye
+  - Biomedical
+license: MIT
+version: 1.0.0
+date-released: '2024-07-05'

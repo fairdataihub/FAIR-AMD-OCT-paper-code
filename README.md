@@ -2,7 +2,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11361363.svg)](https://doi.org/10.5281/zenodo.11361363)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12662728.svg)](https://doi.org/10.5281/zenodo.12662728)
 
 [contributors-shield]: https://img.shields.io/github/contributors/fairdataihub/code-FAIR-AMD-OCT-paper.svg?style=flat-square
 [contributors-url]: https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper/graphs/contributors
@@ -69,5 +69,5 @@ Use the [GitHub issues](https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper/
 If you use this code, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/inventory-FAIR-AMD-OCT-paper) when available) and also cite this repository as:
 
 ```bash
-Gim, Nayoon, Patel, Bhavesh. Code: FAIR AMD OCT Datasets Paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.11361363
+Gim, Nayoon, Patel, Bhavesh. Code: FAIR AMD OCT Datasets Paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.12662728
 ```

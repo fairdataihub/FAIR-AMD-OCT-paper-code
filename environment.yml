@@ -1,4 +1,4 @@
-name: code-fair-AMD-OCT-paper
+name: FAIR-AMD-OCT-paper-code
 channels:
   - defaults
   - conda-forge

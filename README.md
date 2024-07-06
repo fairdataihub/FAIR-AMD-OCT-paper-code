@@ -54,7 +54,7 @@ $ conda deactivate
 Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) along with the [Black](https://github.com/psf/black) and [isort](https://github.com/PyCQA/isort) formatters to facilitate compliance with PEP8 if you are editing the notebook.
 
 ## Inputs/outputs
-The Jupyter notebook makes use of files in the dataset associated with the paper [(see here)](https://github.com/fairdataihub/inventory-FAIR-AMD-OCT-paper). You will need to download the dataset at add it in the input folder (call the dataset folder 'dataset').
+The Jupyter notebook makes use of files in the dataset associated with the paper [(see here)](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-inventory). You will need to download the dataset at add it in the input folder (call the dataset folder 'dataset').
 
 Outputs of the code include plots displayed in the notebook but also saved as files. These saved plot files are included in the [output](output) folder. 
 
@@ -66,7 +66,7 @@ This work is licensed under
 Use the [GitHub issues](https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## How to cite
-If you use this code, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/inventory-FAIR-AMD-OCT-paper) when available) and also cite this repository as:
+If you use this code, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-inventory) when available) and also cite this repository as:
 
 ```bash
 Gim, Nayoon, Patel, Bhavesh. Code: FAIR AMD OCT Datasets Paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.12662728

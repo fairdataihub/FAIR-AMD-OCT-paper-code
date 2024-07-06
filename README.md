@@ -4,19 +4,19 @@
 [![MIT License][license-shield]][license-url]
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12662728.svg)](https://doi.org/10.5281/zenodo.12662728)
 
-[contributors-shield]: https://img.shields.io/github/contributors/fairdataihub/code-FAIR-AMD-OCT-paper.svg?style=flat-square
-[contributors-url]: https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/fairdataihub/code-FAIR-AMD-OCT-paper.svg?style=flat-square
-[stars-url]: https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fairdataihub/code-FAIR-AMD-OCT-paper.svg?style=flat-square
-[issues-url]: https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper/issues
-[license-shield]: https://img.shields.io/github/license/fairdataihub/code-FAIR-AMD-OCT-paper.svg?style=flat-square
-[license-url]: https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/fairdataihub/FAIR-AMD-OCT-paper-code.svg?style=flat-square
+[contributors-url]: https://github.com/fairdataihub/FAIR-AMD-OCT-paper-code/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/fairdataihub/FAIR-AMD-OCT-paper-code.svg?style=flat-square
+[stars-url]: https://github.com/fairdataihub/FAIR-AMD-OCT-paper-code/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fairdataihub/FAIR-AMD-OCT-paper-code.svg?style=flat-square
+[issues-url]: https://github.com/fairdataihub/FAIR-AMD-OCT-paper-code/issues
+[license-shield]: https://img.shields.io/github/license/fairdataihub/FAIR-AMD-OCT-paper-code.svg?style=flat-square
+[license-url]: https://github.com/fairdataihub/FAIR-AMD-OCT-paper-code/blob/master/LICENSE
 
 # Code: FAIR AMD OCT Datasets Paper
 
 ## About
-This is the code associated with the paper title "Publicly Available Imaging Datasets for Age-related Macular Degeneration: Evaluation according to the Findable, Accessible, Interoperable, Reproducible (FAIR) Principles". Age-related macular degeneration (AMD), a leading cause of vision loss among older adults, affects more than 200 million people worldwide. In this paper, We evaluated openly available AMD-related datasets containing optical coherence tomography (OCT) data against the FAIR principles. This repository contains the Jupyter notebook developed to analyze data for the paper and generate figures.
+This is the code associated with the paper titled "Publicly Available Imaging Datasets for Age-related Macular Degeneration: Evaluation according to the Findable, Accessible, Interoperable, Reproducible (FAIR) Principles". Age-related macular degeneration (AMD), a leading cause of vision loss among older adults, affects more than 200 million people worldwide. In this paper, We evaluated openly available AMD-related datasets containing optical coherence tomography (OCT) data against the FAIR principles. This repository contains the Jupyter notebook developed to analyze data for the paper and generate figures.
 
 
 ## Standards followed
@@ -34,7 +34,7 @@ Clone the repo or download as a zip and extract.
 
 Open Anaconda prompt (Windows) or the system Command line interface then naviguate to the code
 ```sh
-cd .code-FAIR-AMD-OCT-paper
+cd .FAIR-AMD-OCT-paper-code
 
 ```
 
@@ -45,7 +45,7 @@ $ conda env create -f environment.yml
 
 ### Setup kernell for Jupyter lab
 ```sh
-$ conda activate code-FAIR-AMD-OCT-paper
+$ conda activate FAIR-AMD-OCT-paper-code
 $ conda install ipykernel
 $ ipython kernel install --user --name=<any_name_for_kernel>
 $ conda deactivate
@@ -63,7 +63,7 @@ This work is licensed under
 [MIT](https://opensource.org/licenses/mit). See [LICENSE](LICENSE) for more information.
 
 ## Feedback and contribution
-Use the [GitHub issues](https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
+Use the [GitHub issues](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-code/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## How to cite
 If you use this code, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-inventory) when available) and also cite this repository as:

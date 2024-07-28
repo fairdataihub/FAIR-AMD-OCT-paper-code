@@ -40,8 +40,8 @@
     ],
     "codeRepository": "https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper",
     "dateCreated": "2024-06-20",
-    "dateModified": "2024-07-05",
-    "datePublished": "2024-07-05",
+    "dateModified": "2024-07-28",
+    "datePublished": "2024-07-28",
     "description": "This is the code associated with the paper title \"Publicly Available Imaging Datasets for Age-related Macular Degeneration: Evaluation according to the Findable, Accessible, Interoperable, Reproducible (FAIR) Principles\". Age-related macular degeneration (AMD), a leading cause of vision loss among older adults, affects more than 200 million people worldwide. In this paper, We evaluated openly available AMD-related datasets containing optical coherence tomography (OCT) data against the FAIR principles. This repository contains the Jupyter notebook developed to analyze data for the paper and generate figures.",
     "downloadUrl": "https://github.com/fairdataihub/code-FAIR-AMD-OCT-paper",
     "funder": {

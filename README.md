@@ -2,7 +2,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12662728.svg)](https://doi.org/10.5281/zenodo.12662728)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12662728.svg)](https://doi.org/10.5281/zenodo.12662727)
 
 [contributors-shield]: https://img.shields.io/github/contributors/fairdataihub/FAIR-AMD-OCT-paper-code.svg?style=flat-square
 [contributors-url]: https://github.com/fairdataihub/FAIR-AMD-OCT-paper-code/graphs/contributors
@@ -66,8 +66,4 @@ This work is licensed under
 Use the [GitHub issues](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-code/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## How to cite
-If you use this code, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-inventory) when available) and also cite this repository as:
-
-```bash
-Gim, Nayoon, Patel, Bhavesh. Code: FAIR AMD OCT Datasets Paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.12662728
-```
+If you use this code, please cite the related paper (it will be listed [here](https://github.com/fairdataihub/FAIR-AMD-OCT-paper-inventory) when available) and also cite this repository following the instructions on provided [here on Zenodo](https://doi.org/10.5281/zenodo.12662727) for the specific version of this repository that you use.
